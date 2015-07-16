@@ -1,0 +1,10 @@
+bak
+obj
+bin
+original
+Properties
+*.bak
+*.suo
+*.user
+*.config
+*.zip
